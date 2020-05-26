@@ -1,0 +1,10 @@
+body {
+  background-color: #003740;
+  font-family: monospace;
+  color: #FFFFFF;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+}
